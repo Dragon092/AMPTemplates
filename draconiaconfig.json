@@ -1,0 +1,19 @@
+[
+    {
+        "DisplayName": "Server Name",
+        "Category": "Server Settings",
+        "Description": "",
+        "Keywords": "server,name",
+        "FieldName": "steamservername",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "steamservername",
+        "IncludeInCommandLine": true,
+        "DefaultValue": "[Custom] Draconia Custom Server",
+        "Placeholder": "[Custom] Draconia Custom Server",
+        "Suffix": "",
+        "Hidden": false,
+        "SkipIfEmpty": false,
+        "EnumValues": {}
+    }
+]
