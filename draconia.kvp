@@ -4,7 +4,7 @@ App.AdminPortRef=RemoteAdminPort
 App.ApplicationIPBinding=0.0.0.0
 App.ApplicationReadyMode=Immediate
 App.BaseDirectory=./draconia/1956500/
-App.CommandLineArgs={{Map}} -log -port={{$MainGamePort}} -QueryPort={{$SteamQueryPort}} -ServerType=3 -ServerID=1 -Location=EU {{$PlatformArgs}} {{$FormattedArgs}}
+App.CommandLineArgs={{$Map}} -log -port={{$MainGamePort}} -QueryPort={{$SteamQueryPort}} -ServerType=3 -ServerID=1 -Location=EU {{$PlatformArgs}} {{$FormattedArgs}}
 App.CommandLineParameterDelimiter= 
 App.CommandLineParameterFormat=-{0}="{1}"
 App.Compatibility=None
