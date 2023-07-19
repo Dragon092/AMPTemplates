@@ -15,22 +15,5 @@
         "Hidden": false,
         "SkipIfEmpty": false,
         "EnumValues": {}
-    },
-    {
-        "DisplayName": "Server Map",
-        "Category": "Server Settings",
-        "Description": "",
-        "Keywords": "server,map",
-        "FieldName": "Map",
-        "InputType": "text",
-        "IsFlagArgument": false,
-        "ParamFieldName": "Map",
-        "IncludeInCommandLine": false,
-        "DefaultValue": "Altuis",
-        "Placeholder": "Altuis",
-        "Suffix": "",
-        "Hidden": false,
-        "SkipIfEmpty": false,
-        "EnumValues": {}
     }
 ]
