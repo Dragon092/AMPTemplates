@@ -6,7 +6,7 @@ App.ApplicationReadyMode=Immediate
 App.BaseDirectory=./draconia/1956500/
 App.CommandLineArgs=Altuis -log -port={{$MainGamePort}} -QueryPort={{$SteamQueryPort}} -ServerType=3 -ServerID=1 -Location=EU {{$PlatformArgs}} {{$FormattedArgs}}
 App.CommandLineParameterDelimiter= 
-App.CommandLineParameterFormat=-{0} "{1}"
+App.CommandLineParameterFormat=-{0}="{1}"
 App.Compatibility=None
 App.DisplayName=Draconia
 App.EnvironmentVariables={"LD_LIBRARY_PATH": "./linux64:%LD_LIBRARY_PATH%", "SteamAppId": ""}
